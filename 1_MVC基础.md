@@ -16,7 +16,7 @@ MVC基础
 	
 	//bad case
 	//因为destoryUser不在User的实例中
-	var user = {name: '鬼谣', tel: '132******', job: '前端'};
+	var user = {name: 'vczero', tel: '132******', job: '前端'};
 	destoryUser(user);
 	
 2、视图
